@@ -1,0 +1,144 @@
+Body {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border-left: 100px;
+  border-right: 100px;
+  background-color: rgb(3, 94, 108);
+  text-align: left;
+  font-size: 18px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.navbar {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(199, 208, 209);
+  overflow: hidden;
+  float: center;
+}
+
+.navbar a {
+  float: center;
+  color: gray;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  text-decoration: none;
+  font-size: 16px;
+  background-color: rgb(199, 208, 209);
+}
+
+.navbar a:hover {
+  background-color: rgb(3, 94, 108);
+  color: white;
+}
+
+p {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+header {
+  padding-bottom: none;
+  margin-bottom: none;
+  color: rgb(199, 208, 209);
+} 
+
+#intro {
+  font-style: italic;
+  }
+
+main {
+  background-color: rgb(199, 208, 209);
+  padding-top: 10px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  Text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+h2 {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.date {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+#samedate {
+  font-style: oblique;
+}
+
+table {
+  border-collapse: collapse;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  Display: block;
+  Width:30%;
+  Height: auto;	
+}
+
+Figcaption{
+    Text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.img-circle {
+  border-radius: 50%;
+  Width:10%;	
+  margin-left: auto;
+  margin-right: auto;
+  Display: block;
+}
+
+footer {
+  Text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  Display: block;
+  color:rgb(199, 208, 209);
+}
